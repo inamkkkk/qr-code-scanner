@@ -1,0 +1,22 @@
+### Flutter ###
+
+# Build artifacts
+**/build/*
+
+# Generated files
+**/lib/generated/*
+
+# IDE files
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+.packages
+*.iml
+
+# Misc
+*.log
